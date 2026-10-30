@@ -1,5 +1,4 @@
-# power-bi-superstore-sales-analysis
-Superstore Sales and Profit Analysis Dashboard using Power BI
+
 # Superstore Sales & Profit Analysis Dashboard
 
 ## 1. Project Overview
