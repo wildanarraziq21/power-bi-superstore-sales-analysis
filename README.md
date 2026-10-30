@@ -1,6 +1,6 @@
 
 # Superstore Sales & Profit Analysis Dashboard
-
+![Superstore Sales & Profit Analysis Dashboard](dashboard-preview.png)
 ## 1. Project Overview
 
 This project presents an interactive business intelligence dashboard developed using Microsoft Power BI to analyze sales performance, profitability, customer segments, product categories, and regional performance.
